@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Tamashdev97@gmail.com**
 
-- ⚡ Fun fact **I'm programmer but my side project is as a DJ/Producer**
+- ⚡ Fun fact **I'm programmer but also work on entertainment industry as a electronic music DJ / Producer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
