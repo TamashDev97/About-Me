@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás Olaya</h1>
-<h3 align="center">A passionate junior web developper from Colombia.</h3>
+<h3 align="center">A passionate junior fullstack developper.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamashdev97&label=Profile%20views&color=0e75b6&style=flat" alt="tamashdev97" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Management system for a soccer league**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **HTML, CSS, Figma, Adobe Creative Cloud (Full suite), MySql, JavaScript, Python, Spring Boot.**
 
