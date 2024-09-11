@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás Olaya Pinto</h1>
-<h3 align="center">I'M Full-Stack Developer | Java, Spring Boot, React | Strong soft skills</h3>
+<h3 align="center">I'M Junior Full-Stack Developer | Java, Spring Boot, React | Strong soft skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamashdev97&label=Profile%20views&color=0e75b6&style=flat" alt="tamashdev97" /> </p>
 
