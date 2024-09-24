@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Spring Boot Framework**
 
-- 💬 Ask me about **HTML, CSS, React, Figma, Adobe Creative Cloud (Full suite), MySql, JavaScript, Python, Spring Boot.**
+- 💬 Ask me about **HTML, CSS, React, Figma, Adobe Creative Cloud (Full suite), MySql, JavaScript, Python, Spring Boot, React.**
 
-- 📫 How to reach me **tomasolaya5@gmail.com / tamashdev97@gmail.com**
+- 📫 How to reach me **tamashdev97@gmail.com**
 
 - ⚡ Fun fact **Fun fact I'm programmer but also work on entertainment industry as a electronic music DJ / Producer**
 
